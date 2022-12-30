@@ -1,1 +1,3 @@
-# fullcycle-docker-01
+# Desafio Fullcycle Docker 01
+
+docker run sadsaxa/fullcycle
